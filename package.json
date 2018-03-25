@@ -1,0 +1,43 @@
+{
+
+	"name": "beepboop",
+	"displayName": "BeepBoop Dark Theme",
+	"version": "0.1.0",
+	"description": "Simple dark theme for Visual Studio Code",
+	"author": "Rory Kelly",
+	"license": "MIT",
+	"publisher": "rozzan",
+	"homepage": "https://github.com/rozzan/beepboop-vscode",
+	"repository": {
+		
+		"type": "git",
+		"url": "https://github.com/rozzan/beepboop-vscode.git"
+
+	},
+	"engines": {
+
+		"vscode": "^1.0.0"
+
+	},
+	"categories": [
+
+		"Themes"
+		
+	],
+	"contributes": {
+
+		"themes": [
+
+			{
+
+				"label": "BeepBoop Dark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/.json"
+
+			}
+			
+		]
+
+	}
+
+}
