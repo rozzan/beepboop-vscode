@@ -64,12 +64,12 @@
 		"list.inactiveFocusForeground": "",
 		"list.invalidItemForeground": "",
 		
-		"activityBar.background": "",
-		"activityBar.dropBackground": "",
-		"activityBar.foreground": "",
-		"activityBar.border": "",
-		"activityBarBadge.background": "",
-		"activityBarBadge.foreground": "",
+		"activityBar.background": "#363036FF",
+		"activityBar.dropBackground": "#5C595C66",
+		"activityBar.foreground": "#F9F6F9FF",
+		"activityBar.border": "#444444FF",
+		"activityBarBadge.background": "#9933CCFF",
+		"activityBarBadge.foreground": "#F9F6F9FF",
 		
 		"sideBar.background": "#2C262CFF",
 		"sideBar.foreground": "#F9F6F9FF",
