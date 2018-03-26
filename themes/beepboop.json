@@ -40,10 +40,10 @@
 		"inputValidation.warningBackground": "#1F191FFF",
 		"inputValidation.warningBorder": "#AAAA00FF",
 		
-		"scrollbar.shadow": "",
-		"scrollbarSlider.activeBackground": "",
-		"scrollbarSlider.background": "",
-		"scollbarSlider.hoverBackground": "",
+		"scrollbar.shadow": "#323330FF",
+		"scrollbarSlider.activeBackground": "#5C595C66",
+		"scrollbarSlider.background": "#3C393CFF",
+		"scollbarSlider.hoverBackground": "#444444CC",
 		
 		"badge.foreground": "",
 		"badge.background": "",
