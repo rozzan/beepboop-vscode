@@ -321,6 +321,50 @@
 
 			}
 
+		},
+		{
+
+			"name": "Types",
+			"scope": [
+
+				"entity.name.class",
+				"entity.name.struct",
+				"entity.name.enum",
+				"entity.name.union",
+				"entity.name.trait",
+				"entity.name.interface",
+				"entity.name.type",
+				"entity.name.class.forward-decl",
+				"entity.name.function",
+				"entity.name.namespace",
+				"entity.name.label",
+				"entity.name.section",
+				"entity.name.tag",
+				"entity.other.attribute-name"
+
+			],
+			"settings": {
+
+				"foreground": "#CC33FFFF"
+
+			}
+
+		},
+		{
+
+			"name": "Inherited",
+			"scope": [
+
+				"entity.other.inherited-class"
+
+			],
+			"settings": {
+
+				"foreground": "#CC33FFFF",
+				"fontStyle": "italic"
+
+			}
+
 		}
 
 	]
