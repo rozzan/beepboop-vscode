@@ -276,7 +276,7 @@
 		"terminalCursor.background": "#2C2C2CFF",
 		"terminalCursor.foreground": "#DCDCDCFF",
 		
-		"debugToolBar.background": "",
+		"debugToolBar.background": "#AA1111FF",
 		
 		"welcomePage.buttonBackground": "#451486FF",
 		"welcomePage.buttonHoverBackground": "#9933CCFF",
