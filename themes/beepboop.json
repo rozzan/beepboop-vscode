@@ -365,6 +365,22 @@
 
 			}
 
+		},
+		{
+
+			"name": "Invalid",
+			"scope": [
+
+				"invalid"
+
+			],
+			"settings": {
+
+				"foreground": "#AA1111FF",
+				"fontStyle": "underline"
+
+			}
+
 		}
 
 	]
