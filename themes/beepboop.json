@@ -291,7 +291,22 @@
 	},
 	"tokenColors": [
 
-		
+		{
+
+			"name": "Comments",
+			"scope": [
+
+				"comment",
+				"punctuation.definition.comment"
+
+			],
+			"settings": {
+
+				"foreground": "#646660FF"
+
+			}
+
+		}
 
 	]
 
