@@ -247,9 +247,9 @@
 		"notification.warningBackground": "",
 		"notification.warningForeground": "",
 		
-		"extensionButton.prominentForeground": "",
-		"extensionButton.proinentBackground": "",
-		"extensionButton.promimentHoverBackground": "",
+		"extensionButton.prominentForeground": "#323330FF",
+		"extensionButton.prominentBackground": "#C9C6C9FF",
+		"extensionButton.prominentHoverBackground": "#F9F6F9FF",
 		
 		"pickerGroup.border": "#444444FF",
 		"pickerGroup.foreground": "#999699FF",
