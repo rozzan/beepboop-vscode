@@ -19,9 +19,9 @@
 		"textPreformat.foreground": "",
 		"textSeparator.foreground": "",
 
-		"button.background": "",
-		"button.foreground": "",
-		"button.hoverBackground": "",
+		"button.background": "#451486FF",
+		"button.foreground": "#F9F6F9FF",
+		"button.hoverBackground": "#9933CCFF",
 
 		"dropdown.background": "#1F191FFF",
 		"dropdown.listBackground": "#1F191FFF",
