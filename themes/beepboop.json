@@ -306,6 +306,21 @@
 
 			}
 
+		},
+		{
+
+			"name": "Constants",
+			"scope": [
+
+				"constant"
+
+			],
+			"settings": {
+
+				"foreground": "#66CCFFFF"
+
+			}
+
 		}
 
 	]
