@@ -4,12 +4,12 @@
 	"type": "dark",
 	"colors": {
 
-		"focusBorder": "",
-		"foreground": "",
-		"widget.shadow": "",
-		"selection.background": "",
-		"descriptionForeground": "",
-		"errorForeground": "",		
+		"focusBorder": "#9933CCFF",
+		"foreground": "#F9F6F9FF",
+		"widget.shadow": "#323330FF",
+		"selection.background": "#5C595C66",
+		"descriptionForeground": "#F9F6F9FF",
+		"errorForeground": "#AA1111FF",		
 		
 		"textBlockQuote.background": "#1F191FFF",
 		"textBlockQuote.border": "#444444FF",
