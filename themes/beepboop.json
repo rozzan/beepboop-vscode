@@ -278,9 +278,9 @@
 		
 		"debugToolBar.background": "",
 		
-		"welcomePage.buttonBackground": "",
-		"welcomePage.buttonHoverBackground": "",
-		"welcomePage.embeddedEditorBackground": "",
+		"welcomePage.buttonBackground": "#451486FF",
+		"welcomePage.buttonHoverBackground": "#9933CCFF",
+		"welcomePage.embeddedEditorBackground": "#1F191FFF",
 		
 		"gitDecoration.modifiedResourceForeground": "#0055CCFF",
 		"gitDecoration.deletedResourceForeground": "#AA5555FF",
