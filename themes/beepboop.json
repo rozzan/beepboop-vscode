@@ -397,6 +397,23 @@
 
 			}
 
+		},
+		{
+
+			"name": "Strings",
+			"scope": [
+
+				"string.quoted",
+				"punctuation.definition.string",
+				"string.regexp"
+
+			],
+			"settings": {
+
+				"foreground": "#EEDDAAFF"
+
+			}
+
 		}
 
 	]
