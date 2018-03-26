@@ -23,10 +23,10 @@
 		"button.foreground": "",
 		"button.hoverBackground": "",
 
-		"dropdown.background": "",
-		"dropdown.listBackground": "",
-		"dropdown.border": "",
-		"dropdown.foreground": "",
+		"dropdown.background": "#1F191FFF",
+		"dropdown.listBackground": "#1F191FFF",
+		"dropdown.border": "#444444ff",
+		"dropdown.foreground": "#F9E6F9FF",
 
 		"input.background": "#1F191FFF",
 		"input.border": "#444444FF",
