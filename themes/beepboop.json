@@ -251,8 +251,8 @@
 		"extensionButton.proinentBackground": "",
 		"extensionButton.promimentHoverBackground": "",
 		
-		"pickerGroup.border": "",
-		"pickerGroup.foreground": "",
+		"pickerGroup.border": "#444444FF",
+		"pickerGroup.foreground": "#999699FF",
 		
 		"terminal.background": "",
 		"terminal.foreground": "",
