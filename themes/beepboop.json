@@ -381,6 +381,22 @@
 
 			}
 
+		},
+		{
+
+			"name": "Keywords",
+			"scope": [
+
+				"keyword",
+				"punctuation.definition.keyword"
+
+			],
+			"settings": {
+
+				"foreground": "#EEBB22FF"
+
+			}
+
 		}
 
 	]
