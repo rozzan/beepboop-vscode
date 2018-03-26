@@ -282,11 +282,11 @@
 		"welcomePage.buttonHoverBackground": "",
 		"welcomePage.embeddedEditorBackground": "",
 		
-		"gitDecoration.modifiedResourceForeground": "",
-		"gitDecoration.deletedResourceForeground": "",
-		"gitDecoration.untrackedResourceForeground": "",
-		"gitDecoration.ignoredResourceForeground": "",
-		"gitDecoration.conflictingResourceForeground": ""
+		"gitDecoration.modifiedResourceForeground": "#0055CCFF",
+		"gitDecoration.deletedResourceForeground": "#AA5555FF",
+		"gitDecoration.untrackedResourceForeground": "#999399FF",
+		"gitDecoration.ignoredResourceForeground": "#999399FF",
+		"gitDecoration.conflictingResourceForeground": "#AA1111FF"
 		
 	},
 	"tokenColors": [
