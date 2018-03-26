@@ -200,12 +200,12 @@
 		"editorOverviewRuler.incomingContentForeground": "",
 		"editorOverviewRuler.commonContentForeground": "",
 		
-		"panel.background": "",
-		"panel.border": "",
-		"panel.dropBackground": "",
-		"panelTitle.activeBorder": "",
-		"panelTitle.activeForeground": "",
-		"panelTitle.inactiveForeground": "",
+		"panel.background": "#2C262CFF",
+		"panel.border": "#444444FF",
+		"panel.dropBackground": "#5C595C66",
+		"panelTitle.activeBorder": "#FCF9FCFF",
+		"panelTitle.activeForeground": "#FCF9FCFF",
+		"panelTitle.inactiveForeground": "#999399FF",
 		
 		"statusBar.background": "#9933CCFF",
 		"statusBar.foreground": "#F9F6F9FF",
